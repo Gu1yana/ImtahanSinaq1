@@ -41,7 +41,7 @@ namespace ImtahanTest1.Areas.Admin.Controllers
         {
             if(vm.ImageFile is not null)
             {
-
+                if(!vm.ImageFile.IsValidSize())
             }
 
 

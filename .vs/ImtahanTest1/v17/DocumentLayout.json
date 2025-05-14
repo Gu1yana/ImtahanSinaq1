@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\extensions\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -118,24 +122,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "ImtahanTest1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "ImtahanTest1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T09:29:04.016Z",
+              "DocumentIndex": 0,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Extensions\\FileExtension.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Extensions\\FileExtension.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Extensions\\FileExtension.cs",
+              "RelativeToolTip": "ImtahanTest1\\Extensions\\FileExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:48:15.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -143,12 +147,11 @@
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T09:28:47.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:28:47.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Project\\Index.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\Project\\Index.cshtml",
@@ -156,12 +159,11 @@
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\Project\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T09:27:06.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T09:27:06.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Project.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Models\\Project.cs",
@@ -169,12 +171,11 @@
               "RelativeToolTip": "ImtahanTest1\\Models\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:32:40.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:32:40.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CategoryCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryCreateVM.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryCreateVM.cs",
@@ -182,12 +183,11 @@
               "RelativeToolTip": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:36:36.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:36:36.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CategoryGetVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryGetVM.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryGetVM.cs",
@@ -195,12 +195,11 @@
               "RelativeToolTip": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:36:23.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:36:23.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Views\\_ViewStart.cshtml",
@@ -208,12 +207,11 @@
               "RelativeToolTip": "ImtahanTest1\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T05:19:18.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:19:18.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Views\\Shared\\_Layout.cshtml",
@@ -221,12 +219,11 @@
               "RelativeToolTip": "ImtahanTest1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T05:19:40.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:19:40.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Views\\Home\\Index.cshtml",
@@ -234,25 +231,36 @@
               "RelativeToolTip": "ImtahanTest1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T05:18:58.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:18:58.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
               "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCcAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwCsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T07:16:28.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:29:04.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ProjectUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectUpdateVM.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectUpdateVM.cs",
@@ -260,12 +268,11 @@
               "RelativeToolTip": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:38:46.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:38:46.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProjectGetVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectGetVM.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectGetVM.cs",
@@ -273,12 +280,11 @@
               "RelativeToolTip": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:38:23.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:38:23.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "KlinikDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Migrations\\KlinikDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Migrations\\KlinikDbContextModelSnapshot.cs",
@@ -286,12 +292,11 @@
               "RelativeToolTip": "ImtahanTest1\\Migrations\\KlinikDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T08:55:48.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T08:55:48.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CategoryUpdateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryUpdateVM.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryUpdateVM.cs",
@@ -299,12 +304,11 @@
               "RelativeToolTip": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryUpdateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:37:48.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:37:48.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -312,12 +316,11 @@
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:56:26.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:56:26.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20250514071830_CreatedCategoryAndProject.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Migrations\\20250514071830_CreatedCategoryAndProject.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Migrations\\20250514071830_CreatedCategoryAndProject.cs",
@@ -325,12 +328,11 @@
               "RelativeToolTip": "ImtahanTest1\\Migrations\\20250514071830_CreatedCategoryAndProject.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T07:18:30.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T07:18:30.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -338,12 +340,11 @@
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T05:07:29.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:07:29.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Models\\Common\\BaseEntity.cs",
@@ -351,12 +352,11 @@
               "RelativeToolTip": "ImtahanTest1\\Models\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:33:22.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:33:22.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\appsettings.json",
               "RelativeDocumentMoniker": "ImtahanTest1\\appsettings.json",
@@ -364,12 +364,11 @@
               "RelativeToolTip": "ImtahanTest1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T05:08:12.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:08:12.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "KlinikDbContext.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\DataAccessLayer\\KlinikDbContext.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\DataAccessLayer\\KlinikDbContext.cs",
@@ -377,12 +376,11 @@
               "RelativeToolTip": "ImtahanTest1\\DataAccessLayer\\KlinikDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:04:15.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:04:15.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProjectCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectCreateVM.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectCreateVM.cs",
@@ -390,12 +388,11 @@
               "RelativeToolTip": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:38:37.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:38:37.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Models\\Category.cs",
@@ -403,12 +400,11 @@
               "RelativeToolTip": "ImtahanTest1\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:32:12.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:32:12.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Controllers\\HomeController.cs",
@@ -416,12 +412,11 @@
               "RelativeToolTip": "ImtahanTest1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:18:50.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:18:50.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -429,12 +424,11 @@
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:07:20.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:07:20.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -442,12 +436,11 @@
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T06:01:21.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:01:21.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Program.cs",
               "RelativeDocumentMoniker": "ImtahanTest1\\Program.cs",
@@ -455,12 +448,11 @@
               "RelativeToolTip": "ImtahanTest1\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T05:06:20.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T05:06:20.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -468,8 +460,7 @@
               "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-14T06:01:33.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-14T06:01:33.429Z"
             }
           ]
         }
