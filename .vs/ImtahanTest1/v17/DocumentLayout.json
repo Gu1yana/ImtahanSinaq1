@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\viewmodels\\projectvm\\projectgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\viewmodels\\projectvm\\projectgetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\migrations\\20250514071830_createdcategoryandproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\migrations\\20250514071830_createdcategoryandproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\migrations\\klinikdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\migrations\\klinikdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\viewmodels\\projectvm\\projectcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\viewmodels\\projectvm\\projectcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\viewmodels\\projectvm\\projectupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\viewmodels\\projectvm\\projectupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\viewmodels\\categoryvm\\categorygetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\viewmodels\\categoryvm\\categorygetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\viewmodels\\categoryvm\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\viewmodels\\categoryvm\\categoryupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\viewmodels\\categoryvm\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\viewmodels\\categoryvm\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\dataaccesslayer\\klinikdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\dataaccesslayer\\klinikdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|c:\\users\\l novbe\\desktop\\gulyana\\imtahantest1\\imtahantest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F1A44B-81E6-432D-B19E-5DE72A4B2B2B}|ImtahanTest1\\ImtahanTest1.csproj|solutionrelative:imtahantest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:29:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:28:47.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T09:27:06.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Project.cs",
+              "RelativeToolTip": "ImtahanTest1\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:32:40.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryCreateVM.cs",
+              "RelativeToolTip": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:36:36.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryGetVM.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryGetVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryGetVM.cs",
+              "RelativeToolTip": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:36:23.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T05:19:18.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T05:19:40.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T05:18:58.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:16:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectUpdateVM.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectUpdateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectUpdateVM.cs",
+              "RelativeToolTip": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:46.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectGetVM.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectGetVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectGetVM.cs",
+              "RelativeToolTip": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KlinikDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Migrations\\KlinikDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Migrations\\KlinikDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Migrations\\KlinikDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ImtahanTest1\\Migrations\\KlinikDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:55:48.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryUpdateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryUpdateVM.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryUpdateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\CategoryVM\\CategoryUpdateVM.cs",
+              "RelativeToolTip": "ImtahanTest1\\ViewModels\\CategoryVM\\CategoryUpdateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:37:48.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:56:26.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250514071830_CreatedCategoryAndProject.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Migrations\\20250514071830_CreatedCategoryAndProject.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Migrations\\20250514071830_CreatedCategoryAndProject.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Migrations\\20250514071830_CreatedCategoryAndProject.cs",
+              "RelativeToolTip": "ImtahanTest1\\Migrations\\20250514071830_CreatedCategoryAndProject.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:18:30.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T05:07:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Models\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "ImtahanTest1\\Models\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:33:22.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\appsettings.json",
+              "RelativeDocumentMoniker": "ImtahanTest1\\appsettings.json",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\appsettings.json",
+              "RelativeToolTip": "ImtahanTest1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T05:08:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KlinikDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\DataAccessLayer\\KlinikDbContext.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\DataAccessLayer\\KlinikDbContext.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\DataAccessLayer\\KlinikDbContext.cs",
+              "RelativeToolTip": "ImtahanTest1\\DataAccessLayer\\KlinikDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:04:15.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProjectCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectCreateVM.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectCreateVM.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\ViewModels\\ProjectVM\\ProjectCreateVM.cs",
+              "RelativeToolTip": "ImtahanTest1\\ViewModels\\ProjectVM\\ProjectCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:38:37.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Models\\Category.cs",
+              "RelativeToolTip": "ImtahanTest1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:32:12.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ImtahanTest1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:18:50.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:07:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:01:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Program.cs",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Program.cs",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Program.cs",
+              "RelativeToolTip": "ImtahanTest1\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:06:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\l novbe\\Desktop\\Gulyana\\ImtahanTest1\\ImtahanTest1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ImtahanTest1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:01:33.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
