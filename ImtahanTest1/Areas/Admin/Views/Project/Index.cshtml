@@ -1,30 +1,32 @@
 ﻿@model List<ProjectGetVM>
+@{
+	int order = 1;
+}
 <table class="table">
-    <thead>
-        <tr>
-            <th scope="col">#</th>
-            <th scope="col">First</th>
-            <th scope="col">Last</th>
-            <th scope="col">Handle</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <th scope="row">1</th>
-            <td>Mark</td>
-            <td>Otto</td>
-            <td>@mdo</td>
-        </tr>
-        <tr>
-            <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>Thornton</td>
-            <td>@fat</td>
-        </tr>
-        <tr>
-            <th scope="row">3</th>
-            <td colspan="2">Larry the Bird</td>
-            <td>@twitter</td>
-        </tr>
-    </tbody>
+	<a class="btn btn-succes" asp-action="Create">Create</a>
+	<thead>
+		<tr>
+			<th scope="col">@(order++)</th>
+			<th scope="col">Content</th>
+			<th scope="col">Category</th>
+			<th scope="col">ImagePath</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var project in Model)
+		{
+			<tr>
+				<th scope="row">@project.Id</th>
+				<td><img src="~/imgs/projects/@project.ImagePath" /></td>
+				<td>@project.Content</td>
+				<td>@project.CategoryName</td>
+				<td>
+					<a class="btn btn-warning" asp-action="Update"
+					   asp-route-id="@project.Id">Update</a>
+					<a class="btn btn-danger" asp-action="Delete"
+					   asp-route-id="@project.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
 </table>

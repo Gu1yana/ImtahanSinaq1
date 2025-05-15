@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImtahanTest1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9fe752a8c4e78f3108783992cda8665d2a3cc7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e402779186d74cb53bf4d21cc587d0593bb8bcc8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImtahanTest1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImtahanTest1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
